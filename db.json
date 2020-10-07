@@ -1,4 +1,4 @@
-products:[
+[
     {
       id: '1',
       image: 'assets/images/camiseta.png',
@@ -40,5 +40,5 @@ products:[
       title: 'Stickers',
       price: 80000,
       description: 'bla bla bla bla bla'
-    },
-  ]
+    }
+]
